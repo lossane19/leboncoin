@@ -1,0 +1,37 @@
+p2
+{
+	color: orangered;
+}
+
+p1{
+  margin: 80px;  
+}
+h3
+{
+	color: orangered;
+}
+.formulaire{
+
+}
+.formulaire input {
+	display: block;
+	margin-bottom: 10px;
+}
+.model {
+	border: 2px solid grey;
+	border-radius: 4px;
+	padding: 10px;
+	padding-right: 100px;
+}
+.formulaire input[type=submit]{
+	cursor: pointer;
+}
+
+.footer {
+	background-color: grey;
+      }
+
+
+.h4 {
+	color: white;
+}
